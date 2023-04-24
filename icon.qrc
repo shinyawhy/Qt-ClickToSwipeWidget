@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/qq.png</file>
+        <file>img/qq_p.png</file>
+        <file>img/wechat.png</file>
+        <file>img/wechat_p.png</file>
+        <file>img/weibo.png</file>
+        <file>img/weibo_p.png</file>
+    </qresource>
+</RCC>
